@@ -5,5 +5,8 @@
   , "dependencies": {
       "express": "2.5.5"
     , "jade": ">= 0.0.1"
+    , "socket.io": ">= 0.8.7"
+    , "connect-form": ">= 0.0.1"
+    , "xml2js": ">= 0.0.1"
   }
 }
